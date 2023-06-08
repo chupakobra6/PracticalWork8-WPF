@@ -1,0 +1,13 @@
+C:\C#\KoshenskiyTheme\bin\Debug\KoshenskiyTheme.dll
+C:\C#\KoshenskiyTheme\bin\Debug\KoshenskiyTheme.pdb
+C:\C#\KoshenskiyTheme\obj\Debug\KoshenskiyTheme.csproj.AssemblyReference.cache
+C:\C#\KoshenskiyTheme\obj\Debug\FullDictionary.baml
+C:\C#\KoshenskiyTheme\obj\Debug\Themes\DarkTheme.baml
+C:\C#\KoshenskiyTheme\obj\Debug\Themes\LightTheme.baml
+C:\C#\KoshenskiyTheme\obj\Debug\KoshenskiyTheme_MarkupCompile.cache
+C:\C#\KoshenskiyTheme\obj\Debug\KoshenskiyTheme.g.resources
+C:\C#\KoshenskiyTheme\obj\Debug\KoshenskiyTheme.Properties.Resources.resources
+C:\C#\KoshenskiyTheme\obj\Debug\KoshenskiyTheme.csproj.GenerateResource.cache
+C:\C#\KoshenskiyTheme\obj\Debug\KoshenskiyTheme.csproj.CoreCompileInputs.cache
+C:\C#\KoshenskiyTheme\obj\Debug\KoshenskiyTheme.dll
+C:\C#\KoshenskiyTheme\obj\Debug\KoshenskiyTheme.pdb

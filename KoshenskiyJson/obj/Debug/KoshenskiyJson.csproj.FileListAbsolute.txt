@@ -1,0 +1,9 @@
+C:\C#\KoshenskiyJson\bin\Debug\KoshenskiyJson.dll
+C:\C#\KoshenskiyJson\bin\Debug\KoshenskiyJson.pdb
+C:\C#\KoshenskiyJson\bin\Debug\Newtonsoft.Json.dll
+C:\C#\KoshenskiyJson\bin\Debug\Newtonsoft.Json.xml
+C:\C#\KoshenskiyJson\obj\Debug\KoshenskiyJson.csproj.AssemblyReference.cache
+C:\C#\KoshenskiyJson\obj\Debug\KoshenskiyJson.csproj.CoreCompileInputs.cache
+C:\C#\KoshenskiyJson\obj\Debug\KoshenskiyJson.csproj.CopyComplete
+C:\C#\KoshenskiyJson\obj\Debug\KoshenskiyJson.dll
+C:\C#\KoshenskiyJson\obj\Debug\KoshenskiyJson.pdb

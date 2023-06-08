@@ -1,0 +1,13 @@
+C:\C#\KoshenskiyLanguage\bin\Debug\KoshenskiyLanguage.dll
+C:\C#\KoshenskiyLanguage\bin\Debug\KoshenskiyLanguage.pdb
+C:\C#\KoshenskiyLanguage\obj\Debug\KoshenskiyLanguage.csproj.AssemblyReference.cache
+C:\C#\KoshenskiyLanguage\obj\Debug\Languages\EnglishLanguage.baml
+C:\C#\KoshenskiyLanguage\obj\Debug\Languages\RussianLanguage.baml
+C:\C#\KoshenskiyLanguage\obj\Debug\KoshenskiyLanguage_MarkupCompile.cache
+C:\C#\KoshenskiyLanguage\obj\Debug\KoshenskiyLanguage.g.resources
+C:\C#\KoshenskiyLanguage\obj\Debug\KoshenskiyLanguage.Properties.Resources.resources
+C:\C#\KoshenskiyLanguage\obj\Debug\KoshenskiyLanguage.csproj.GenerateResource.cache
+C:\C#\KoshenskiyLanguage\obj\Debug\KoshenskiyLanguage.csproj.CoreCompileInputs.cache
+C:\C#\KoshenskiyLanguage\obj\Debug\KoshenskiyLanguage.dll
+C:\C#\KoshenskiyLanguage\obj\Debug\KoshenskiyLanguage.pdb
+C:\C#\KoshenskiyLanguage\obj\Debug\FullDictionary.baml
